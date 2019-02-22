@@ -1,2 +1,2 @@
-# -100DaysOfCode-Pyd-and-C-
+# -100DaysOfCode
 Mixture of both languages to challenge and grow my skills as a developer
