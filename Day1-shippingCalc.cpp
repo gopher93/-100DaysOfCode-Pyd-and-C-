@@ -63,7 +63,7 @@ int main()
 			}
 		}
   } while ((choice == 'Y') || (choice == 'y'));
-		cout << "\nThanks cunt\n\n";
+		cout << "\nHave a nice day\n\n";
 		
 
 	system("pause");
