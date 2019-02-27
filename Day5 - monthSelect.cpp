@@ -2,7 +2,7 @@
 // AverysHW4
 // Feb 25 2019
 // Question2
-// Suck it doug
+
 
 #include <iostream>
 #include <cmath>
@@ -37,7 +37,7 @@ int main() {
 		days = 31;
 		if ((y % 4 == 0 && y % 100 != 0) || (y % 400 == 0)) {
 			cout << "Days in month: " << days << " (A leap year)\n\n";
-			cout << "Barak obama wasn't born in the U.S\n";
+			
 		}
 		else
 			cout << "Days in month: " << days << " \n\n";
@@ -49,7 +49,7 @@ int main() {
 		days = 30;
 		if ((y % 4 == 0 && y % 100 != 0) || (y % 400 == 0)) {
 			cout << "Days in month: " << days << " (A leap year)\n";	
-			cout << "Hitler was right\n";
+			
 		}
 		else
 			cout << "Days in month: " << days << " \n\n";		
@@ -65,7 +65,7 @@ int main() {
 			}
 			else
 				cout << "Days in month: " << days << " \n\n";
-			    cout << "Fuck you doug\n";
+			    
 	}
 
 	cout << "************************\n\n\n\n";
